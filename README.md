@@ -1,2 +1,6 @@
 # Red-Apples
-Apps Script Automation Projects
+Apps Script Lab Tracker
+
+Project Incomplete - bugs present.
+
+Project will be updated!
